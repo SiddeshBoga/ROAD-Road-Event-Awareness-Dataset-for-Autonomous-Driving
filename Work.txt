@@ -1,0 +1,33 @@
+Service Provider
+
+Login,
+Browse Datasets and Train & Test Data Sets, 
+View Trained and Tested Accuracy in Bar Chart, 
+View Trained and Tested Accuracy Results, 
+View Prediction Of Road Event Detection, 
+View Road Event Detection Ratio, 
+Download Predicted Data Sets, 
+View Road Event Detection Ratio Results, 
+View All Remote Users.
+
+Remote User
+
+
+REGISTER AND LOGIN,
+PREDICT ROAD EVENT DETECTION,
+VIEW YOUR PROFILE. 
+
+
+Members
+
+Fid,	
+lat,	
+lng,	
+rdesc,	
+event,	
+zip,	
+title,	
+timeStamp,	
+twp,	
+addr,
+Prediction.
